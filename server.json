@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "fi.signo/signo",
+  "title": "Signo",
+  "description": "AI agents that watch DeFi positions: read a wallet report, draft agents for the owner to sign.",
+  "version": "1.0.1",
+  "websiteUrl": "https://docs.signo.fi/for-assistants/",
+  "repository": {
+    "url": "https://github.com/FlipLabsAI/signo-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.signo.fi/api/mcp"
+    }
+  ]
+}

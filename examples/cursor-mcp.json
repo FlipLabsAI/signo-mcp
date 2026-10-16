@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "signo": { "url": "https://app.signo.fi/api/mcp" }
+  }
+}
