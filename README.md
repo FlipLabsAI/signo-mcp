@@ -1,6 +1,6 @@
 # Signo MCP server
 
-[![Signo MCP connector](https://glama.ai/mcp/connectors/fi.signo/signo/badges/score.svg)](https://glama.ai/mcp/connectors/fi.signo/signo) [![smithery badge](https://smithery.ai/badge/signo/Signo)](https://smithery.ai/servers/signo/Signo)
+[![Signo MCP connector](https://glama.ai/mcp/connectors/fi.signo/signo/badges/score.svg)](https://glama.ai/mcp/connectors/fi.signo/signo) [![smithery badge](https://smithery.ai/badge/signo/Signo)](https://smithery.ai/servers/signo/Signo) [![M8ven Score](https://m8ven.ai/badge/mcp/fliplabsai-signo-mcp-0igvdy?v=f9f9d90c865994ab64a70c22279295a1)](https://m8ven.ai/mcp/fliplabsai-signo-mcp-0igvdy?s=readme)
 
 [Signo](https://signo.fi) gives your AI assistant tools to set up agents that watch DeFi positions and alert you on Telegram. An agent can watch an Aave health factor, an LP range, a Pendle maturity or idle cash, and prepare the next step for you to sign.
 
